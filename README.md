@@ -1,8 +1,6 @@
 # Self Driving Car Simulation
 
-This is Demo Video of Self Driving Car Module that I have implemented during my Artificial Intelligence Course. 
-
-I have used Artificial Neural Network for designing this. It has 5 nodes in input layer and 3 nodes in output node. ANN is implemented using one hidden layer with 60 nodes.
+A Self Driving Car Module that I have implemented during my Artificial Intelligence Course. I have used Deep Neural Network for designing this. It has 5 nodes in input layer and 3 nodes in output node. Output instructs the car to move either left, right and forward. ANN is implemented using one hidden layer with 60 nodes.
 
 There are 3 files:
 
@@ -10,8 +8,10 @@ There are 3 files:
 2. ai.py - This is brain of simulation i.e. ANN is implemented in this file. 
 3. car.kv - This file contains design information for the car.
 
-Demo Video: https://youtu.be/EvqVlcgSCyU
+Course name is "Artificial Intelligence A-Z™: Learn How To Build An AI"
 
-Udemy Course Link: https://www.udemy.com/artificial-intelligence-az/
+The link of the course is https://www.udemy.com/artificial-intelligence-az/
 
-My Portfolio: http://deepanshpandey.in
+YouTube URL (Video Demonstration) -  https://youtu.be/EvqVlcgSCyU
+
+![alt_text](https://github.com/TDP4you/Self-Driving-Car-Module/blob/master/Screenshot_Self_Driving_Car.png)
