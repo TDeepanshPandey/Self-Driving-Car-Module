@@ -14,4 +14,4 @@ The link of the course is https://www.udemy.com/artificial-intelligence-az/
 
 YouTube URL (Video Demonstration) -  https://youtu.be/EvqVlcgSCyU
 
-![alt_text](https://github.com/TDP4you/Self-Driving-Car-Module/blob/master/Screenshot_Self_Driving_Car.png)
+![alt_text](https://github.com/TDP4you/Self-Driving-Car-Module/blob/master/Screenshot_Self_Driving_Car_Modele.png)
