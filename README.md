@@ -12,6 +12,8 @@ Course name is "Artificial Intelligence A-Z™: Learn How To Build An AI"
 
 The link of the course is https://www.udemy.com/artificial-intelligence-az/
 
+My Certificate Link - https://www.udemy.com/certificate/UC-KWY3JOYK/
+
 YouTube URL (Video Demonstration) -  https://youtu.be/EvqVlcgSCyU
 
 ![alt_text](https://github.com/TDP4you/Self-Driving-Car-Module/blob/master/Screenshot_Self_Driving_Car_Modele.png)
